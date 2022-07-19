@@ -1,0 +1,14 @@
+
+====================================================================================================
+Developer: Nima Rostami (neema.rostami@hotmail.com | neema.rostami@gmail.com)
+====================================================================================================
+
+Project Name: Library Management System
+
+Architecture: Onion (Clean Architecture) Domain-driven Design
+
+Technologies: MSTest (Unit-Test), EF Core (Code-First), ASP.Net Core Web API
+
+Database: Microsoft SQL Server 2019
+
+====================================================================================================
